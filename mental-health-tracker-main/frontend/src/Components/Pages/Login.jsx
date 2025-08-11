@@ -25,7 +25,7 @@ export default function Login() {
       alert("Please fill all the fields.");
       return;
     }
-
+    
     try {
       if (isSignup) {
         // REGISTER
